@@ -1,0 +1,5 @@
+security :
+  oauth2 :
+    client :
+      client-id : 8e465f62-6d50-4285-8abe-406c86a832fb
+      client-secret : mCtpwXEYNWvQ

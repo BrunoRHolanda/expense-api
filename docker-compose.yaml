@@ -39,7 +39,7 @@ services:
     ports:
       - "25432:5432"
     volumes:
-      - "./expense-db-data:/var/lib/postgresql/data"
+      - "./expense-db-data/data:/var/lib/postgresql/data"
     networks:
       - expense-network
   pgadmin:
